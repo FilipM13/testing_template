@@ -1,3 +1,5 @@
+![tests](https://github.com/FilipM13/testing_template/actions/workflows/tests.yaml/badge.svg)
+
 # FILES AND STRUCTURE DESCRIPTION
 
 ## For making package installable
